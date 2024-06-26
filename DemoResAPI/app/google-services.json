@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408566223670",
+    "project_id": "firesebase-3e616",
+    "storage_bucket": "firesebase-3e616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408566223670:android:3a6fab63b87e535cd4d997",
+        "android_client_info": {
+          "package_name": "fpoly.huyndph40487.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKydrUauVYR11AMWzIe0zCDqUGtyLVfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408566223670:android:2f2072a06bad4efed4d997",
+        "android_client_info": {
+          "package_name": "fpoly.huyndph40487.firebaseexp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKydrUauVYR11AMWzIe0zCDqUGtyLVfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
